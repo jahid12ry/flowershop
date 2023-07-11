@@ -1,0 +1,10 @@
+.header{
+    background-color: aqua;
+}
+.textbox{
+    align-items: center;
+    
+}
+.pic{
+    display: flex;
+}
