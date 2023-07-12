@@ -38,6 +38,35 @@
     margin-top: 5px;
     margin-bottom: 20px;
 }
+/* about section */
+.about {
+    padding: 130px;
+    border-radius: 10px;
+}
+
+.head {
+    text-align: center;
+}
+
+.lecture {
+    padding: 10px 100px;
+    text-align: center;
+}
+
+.picture {
+    display: flex;
+    
+   
+}
+
+.skill {
+    padding: 10px;
+}
+
+.image {
+    width: 350px;
+    border-radius: 180px 180px 0px 0px;
+}
 
 /* deal section */
 
@@ -70,21 +99,43 @@
 
 .picture {
     display: flex;
-    margin-right: 5px;
+    margin-right: 2px;
+   
 }
 
 .skill {
-    padding: 20px;
+    padding: 10px;
 }
 
 .img {
     width: 250px;
 }
+/* send message */
+.email{
+    background-image: url('Flower Asset/Rectangle\ 9.png');
+    padding: 100px 100px 50px 50px;
+    width: 800px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+.msg{
+    text-align: center;
+}
+.contact input{
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color:red;
+    border-radius: 5px;
+    background: rebeccapurple;
+    border: 0;
+    text-decoration: double;
+}
 
 /* footer section */
-.footer{
-    background-color: black;
-    padding: 0 0 0 30px;
+footer{
+    display: flex;
+    padding: 70px 200px;
+    background: black;
 }
 .foo{
     padding-top: 20px;
